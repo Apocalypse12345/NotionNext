@@ -13,7 +13,7 @@
     "url": "http://tangly1024.com"
   },
   "engines": {
-    "node": ">=18.17.1"
+    "node": ">=16.20.2"
   },
   "scripts": {
     "dev": "next dev",
